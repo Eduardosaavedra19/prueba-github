@@ -1,3 +1,12 @@
-- Eric Railef: Aprendiendo a usar GitHub
 - Eduardo Saavedra 
 	-Juego
+		-atributos:
+			nombre: string "piña movil"
+			genero: string "indie"
+			precio: string "2 us" 
+			plataforma: string "movil"
+		-Metodos:
+			guardar ()
+			cargar ()
+			iniciar ()
+			acciones ()
