@@ -9,6 +9,9 @@ Ventas = Venta()
 vegetariano = Sandwich_Vegetariano("centeno", 2000, "tomate, lechuga") 
 carne = Sandwich_Carne( "ciabata", 3000, "churrasco", "cheddar")
 
+#setear variable
+mi_variable = carne.set_precio(3200)
+
 # agregar pédidos
 
 Ventas.agregar_sandwich(vegetariano)
